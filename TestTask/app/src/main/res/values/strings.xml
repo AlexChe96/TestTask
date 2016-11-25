@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test Task</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+
+    <string name="insert">Insert</string>
+    <string name="list">List</string>
+    <string name="insert_btn">Insert</string>
+</resources>
